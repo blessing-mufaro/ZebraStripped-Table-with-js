@@ -1,0 +1,12 @@
+body {
+    font: normal medium/1.4 sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: 30%;
+}
+
+.paint-row {
+    background-color: gray;
+}
