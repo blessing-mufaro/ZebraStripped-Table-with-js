@@ -1,3 +1,1 @@
-BLESSING M KASHAVA
-H200667R
-WEB TECHNOLOGIES PRACT 3
+This repository contains a web page with fundamental concepts of HTML, CSS and Javascript. The main functionality/purpose of this webpage is to show how a button click event can invoke zebra stripes on a simple table whereby every second row of the table is shaded.
